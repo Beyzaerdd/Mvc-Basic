@@ -1,0 +1,17 @@
+﻿
+@{
+    Eyes eye = ViewBag.details;
+}
+<div class="content container my-4">
+    <!-- Sol kart -->
+    <div class="card" style="width: 48%; height:100%; margin-right: 2%;">
+        <img src="~/image/@eye.ImageUrl" class="card-img-top" alt="Card image cap">
+    </div>
+
+    <div class="card" style="width:48%; height:100%; margin-right: 2%;">
+        <div class="card-body">
+            <h5 class="card-title">@eye.Name</h5>
+            <p class="card-text">@Html.Raw(eye.Description)</p>
+</div>
+</div>
+</div>

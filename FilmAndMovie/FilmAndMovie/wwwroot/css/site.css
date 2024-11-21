@@ -1,0 +1,112 @@
+.hero-image {
+    background-image: url('/image/e82176_0107aa1b43f54a43afd41bcbcccc8915~mv2.jpg'); /* Resminizi buraya yerleþtirin */
+    height: 100vh; /* Yükseklik tamamen ekran boyutunda */
+    background-position: center; /* Resmin ortalanmasý */
+    background-repeat: no-repeat; /* Resmin tekrarlanmasýný engelle */
+    background-size: cover;
+}
+
+/* Baþlýk yazýsý */
+.hero-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); /* Ortalamak için */
+    color:black;
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+
+
+
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+   
+
+
+    background-color:aliceblue /* Gri arka plan */
+}
+
+
+.card {
+    margin-bottom: 30px; /* Kartlar arasýndaki boþluk */
+    transition: transform 0.3s ease-in-out;
+    background-color:aliceblue;
+}
+
+    .card:hover {
+        transform: translateY(-5px); /* Hover etkisi: kart yukarý kayacak */
+    }
+
+/* Yýldýz Puanlama */
+.stars {
+    font-size: 2rem;
+    color: #f39c12;
+}
+
+.star {
+    color: #ccc;
+}
+
+    .star.filled {
+        color: #f39c12;
+    }
+
+    .star:hover {
+        cursor: pointer;
+        color: #e67e22;
+    }
+
+/* Baþlýk ve açýklama renkleri */
+.card-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 1.1rem;
+    line-height: 1.5;
+    color:#0c2168;
+}
+
+/* Card footer */
+.card-footer {
+    background-color:#AFD3E1;
+    color: white;
+    border-radius: 0 0 10px 10px;
+}
+
+    .card-footer .stars {
+        margin-bottom: 10px;
+    }
+
+    .card-footer p {
+        font-size: 1.2rem;
+    }
+
+.card-body {
+    background-color:aliceblue;
+}
+

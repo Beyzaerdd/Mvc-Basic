@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erdbe\\Desktop\\FilmAndMovie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE65CC56-3267-462E-9FA6-6D33952E0F29}|FilmAndMovie\\FilmAndMovie.csproj|c:\\users\\erdbe\\desktop\\filmandmovie\\filmandmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE65CC56-3267-462E-9FA6-6D33952E0F29}|FilmAndMovie\\FilmAndMovie.csproj|solutionrelative:filmandmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE65CC56-3267-462E-9FA6-6D33952E0F29}|FilmAndMovie\\FilmAndMovie.csproj|c:\\users\\erdbe\\desktop\\filmandmovie\\filmandmovie\\views\\horror\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE65CC56-3267-462E-9FA6-6D33952E0F29}|FilmAndMovie\\FilmAndMovie.csproj|solutionrelative:filmandmovie\\views\\horror\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE65CC56-3267-462E-9FA6-6D33952E0F29}|FilmAndMovie\\FilmAndMovie.csproj|c:\\users\\erdbe\\desktop\\filmandmovie\\filmandmovie\\controllers\\horrorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE65CC56-3267-462E-9FA6-6D33952E0F29}|FilmAndMovie\\FilmAndMovie.csproj|solutionrelative:filmandmovie\\controllers\\horrorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE65CC56-3267-462E-9FA6-6D33952E0F29}|FilmAndMovie\\FilmAndMovie.csproj|c:\\users\\erdbe\\desktop\\filmandmovie\\filmandmovie\\views\\romantic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE65CC56-3267-462E-9FA6-6D33952E0F29}|FilmAndMovie\\FilmAndMovie.csproj|solutionrelative:filmandmovie\\views\\romantic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE65CC56-3267-462E-9FA6-6D33952E0F29}|FilmAndMovie\\FilmAndMovie.csproj|c:\\users\\erdbe\\desktop\\filmandmovie\\filmandmovie\\views\\romantic\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE65CC56-3267-462E-9FA6-6D33952E0F29}|FilmAndMovie\\FilmAndMovie.csproj|solutionrelative:filmandmovie\\views\\romantic\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE65CC56-3267-462E-9FA6-6D33952E0F29}|FilmAndMovie\\FilmAndMovie.csproj|c:\\users\\erdbe\\desktop\\filmandmovie\\filmandmovie\\views\\horror\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE65CC56-3267-462E-9FA6-6D33952E0F29}|FilmAndMovie\\FilmAndMovie.csproj|solutionrelative:filmandmovie\\views\\horror\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE65CC56-3267-462E-9FA6-6D33952E0F29}|FilmAndMovie\\FilmAndMovie.csproj|c:\\users\\erdbe\\desktop\\filmandmovie\\filmandmovie\\controllers\\romanticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE65CC56-3267-462E-9FA6-6D33952E0F29}|FilmAndMovie\\FilmAndMovie.csproj|solutionrelative:filmandmovie\\controllers\\romanticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Desktop\\FilmAndMovie\\FilmAndMovie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FilmAndMovie\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\erdbe\\Desktop\\FilmAndMovie\\FilmAndMovie\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "FilmAndMovie\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T17:39:05.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HorrorController.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Desktop\\FilmAndMovie\\FilmAndMovie\\Controllers\\HorrorController.cs",
+              "RelativeDocumentMoniker": "FilmAndMovie\\Controllers\\HorrorController.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Desktop\\FilmAndMovie\\FilmAndMovie\\Controllers\\HorrorController.cs",
+              "RelativeToolTip": "FilmAndMovie\\Controllers\\HorrorController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:37:27.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Desktop\\FilmAndMovie\\FilmAndMovie\\Views\\Horror\\Index.cshtml",
+              "RelativeDocumentMoniker": "FilmAndMovie\\Views\\Horror\\Index.cshtml",
+              "ToolTip": "C:\\Users\\erdbe\\Desktop\\FilmAndMovie\\FilmAndMovie\\Views\\Horror\\Index.cshtml",
+              "RelativeToolTip": "FilmAndMovie\\Views\\Horror\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T17:33:51.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Desktop\\FilmAndMovie\\FilmAndMovie\\Views\\Horror\\Details.cshtml",
+              "RelativeDocumentMoniker": "FilmAndMovie\\Views\\Horror\\Details.cshtml",
+              "ToolTip": "C:\\Users\\erdbe\\Desktop\\FilmAndMovie\\FilmAndMovie\\Views\\Horror\\Details.cshtml",
+              "RelativeToolTip": "FilmAndMovie\\Views\\Horror\\Details.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T17:33:39.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Desktop\\FilmAndMovie\\FilmAndMovie\\Views\\Romantic\\Index.cshtml",
+              "RelativeDocumentMoniker": "FilmAndMovie\\Views\\Romantic\\Index.cshtml",
+              "ToolTip": "C:\\Users\\erdbe\\Desktop\\FilmAndMovie\\FilmAndMovie\\Views\\Romantic\\Index.cshtml",
+              "RelativeToolTip": "FilmAndMovie\\Views\\Romantic\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T17:32:57.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Desktop\\FilmAndMovie\\FilmAndMovie\\Views\\Romantic\\Details.cshtml",
+              "RelativeDocumentMoniker": "FilmAndMovie\\Views\\Romantic\\Details.cshtml",
+              "ToolTip": "C:\\Users\\erdbe\\Desktop\\FilmAndMovie\\FilmAndMovie\\Views\\Romantic\\Details.cshtml",
+              "RelativeToolTip": "FilmAndMovie\\Views\\Romantic\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T17:32:06.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RomanticController.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Desktop\\FilmAndMovie\\FilmAndMovie\\Controllers\\RomanticController.cs",
+              "RelativeDocumentMoniker": "FilmAndMovie\\Controllers\\RomanticController.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Desktop\\FilmAndMovie\\FilmAndMovie\\Controllers\\RomanticController.cs",
+              "RelativeToolTip": "FilmAndMovie\\Controllers\\RomanticController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:22:41.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

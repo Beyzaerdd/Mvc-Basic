@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MakeUp_MVC.props" />
+</Project>

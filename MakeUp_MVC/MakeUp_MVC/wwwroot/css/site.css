@@ -1,0 +1,43 @@
+body, html {
+    height: 100%;
+}
+.content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-grow: 1; /* Ana içeriðin ekraný kaplamasýný saðlar */
+}
+
+/* Footer'ý her zaman sayfanýn altýna yapýþtýrmak için */
+footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+.card {
+    height: 500px; /* Tüm kartlarýn sabit yüksekliði */
+}
+
+.card-img-top {
+            width: 100%;
+            height: 100%;
+            object-fit: cover; /* Görseli kartýn boyutuna göre kýrpacak ve taþmasýný engelleyecek */
+        }
+.card-body {
+    display: flex;
+    flex-direction: column; /* Ýçeriði dikey olarak hizalar */
+}
+
+    .card-body .mt-auto {
+        margin-top: auto; /* Butonu kartýn altýna iter */
+    }
+.color-swatch {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;

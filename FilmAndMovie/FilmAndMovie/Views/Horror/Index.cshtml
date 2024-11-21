@@ -1,0 +1,47 @@
+﻿
+<div class="container mt-5">
+    <div class="row">
+
+
+@foreach (Film h in ViewBag.horror)
+{
+
+
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+
+                    <div class="card-img-top" style="position: relative; overflow: hidden;">
+                        <iframe class="w-100" height="415" src="@h.VideoUrl" allowfullscreen></iframe>
+                    </div>
+                    <p class="card-text">
+                        @if (h.Description.Length > 100)
+                        {
+                            @h.Description.Substring(0, 200)
+                            //  + "..." bunu neden kullanamıyorum
+                        }
+                        else
+                        {
+                            @h.Description
+                        }
+                    </p>
+
+                    @if (h.Description.Length > 100)
+                    {
+                        <a href="Action/Details/@h.Id" class="btn btn-link p-0">Devamını oku</a>
+                    }
+
+
+                    <a href="Comedy/Details/@h.Id" class="btn btn-primary">İzle</a>
+                </div>
+            </div>
+
+
+
+        }
+    </div>
+</div>
+
+
+
+
+

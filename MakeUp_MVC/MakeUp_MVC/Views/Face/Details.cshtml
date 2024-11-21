@@ -1,0 +1,39 @@
+﻿
+@{
+    Face details = ViewBag.FaceProduct;
+}
+
+<div class="content container my-4">
+    <!-- Sol kart -->
+    <div class="card" style="width: 48%; height:100%; margin-right: 2%;">
+        <img src="~/image/@details.ImageUrl" class="card-img-top" alt="Card image cap">
+    </div>
+
+    <div class="card" style="width:48%; height:100%; margin-right: 2%;">
+        <div class="card-body">
+            <h5 class="card-title">@details.Name</h5>
+            <p class="card-text">@details.Description</p>
+
+            <div class="row">
+                <!-- Renk seçenekleri -->
+                <div class="col-md-2">
+                    <div class="color-swatch col-2" style="background-color: #F5CBA7;" title="Açık Ton" onclick="selectColor('#F5CBA7')"></div>
+                    <div class="color-swatch col-2" style="background-color: #E3B897;" title="Orta Açık Ton" onclick="selectColor('#E3B897')"></div>
+                    <div class="color-swatch col-2" style="background-color: #D9A98D;" title="Orta Ton" onclick="selectColor('#D9A98D')"></div>
+                    <div class="color-swatch col-2" style="background-color: #C68C53;" title="Koyu Ton" onclick="selectColor('#C68C53')"></div>
+                    <div class="color-swatch col-2" style="background-color: #8B4F29;" title="Çok Koyu Ton" onclick="selectColor('#8B4F29')"></div>
+                </div>
+            </div>
+
+
+    </div>
+       
+    </div>
+    </div>
+
+
+
+
+
+  
+

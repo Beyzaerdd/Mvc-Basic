@@ -1,0 +1,19 @@
+﻿
+<h1 class="display-6 text-dark mb-5 mt-5 text-center fs-1">Göz Ürünleri</h1>
+
+<div class="row g-4 mb-5">
+    @foreach(Lips lips in ViewBag.Lips)
+    {
+
+        <div class="col-md-2">
+            <div class="card h-100 ">
+                <img src="~/image/@lips.ImageUrl" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">@lips.Name</h5>
+                    <a href="/lips/details/@lips.Id" class="btn btn-light border-black text-color:white margin-top:auto;">DETAY</a>
+
+                </div>
+            </div>
+        </div>
+    }
+    </div>

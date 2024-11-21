@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erdbe\\Desktop\\MakeUp_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8340CE98-0335-4ECA-AD4D-9C0295B05C19}|MakeUp_MVC\\MakeUp_MVC.csproj|c:\\users\\erdbe\\desktop\\makeup_mvc\\makeup_mvc\\controllers\\eyescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8340CE98-0335-4ECA-AD4D-9C0295B05C19}|MakeUp_MVC\\MakeUp_MVC.csproj|solutionrelative:makeup_mvc\\controllers\\eyescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8340CE98-0335-4ECA-AD4D-9C0295B05C19}|MakeUp_MVC\\MakeUp_MVC.csproj|c:\\users\\erdbe\\desktop\\makeup_mvc\\makeup_mvc\\controllers\\facecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8340CE98-0335-4ECA-AD4D-9C0295B05C19}|MakeUp_MVC\\MakeUp_MVC.csproj|solutionrelative:makeup_mvc\\controllers\\facecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8340CE98-0335-4ECA-AD4D-9C0295B05C19}|MakeUp_MVC\\MakeUp_MVC.csproj|c:\\users\\erdbe\\desktop\\makeup_mvc\\makeup_mvc\\views\\eyes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8340CE98-0335-4ECA-AD4D-9C0295B05C19}|MakeUp_MVC\\MakeUp_MVC.csproj|solutionrelative:makeup_mvc\\views\\eyes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8340CE98-0335-4ECA-AD4D-9C0295B05C19}|MakeUp_MVC\\MakeUp_MVC.csproj|c:\\users\\erdbe\\desktop\\makeup_mvc\\makeup_mvc\\views\\eyes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8340CE98-0335-4ECA-AD4D-9C0295B05C19}|MakeUp_MVC\\MakeUp_MVC.csproj|solutionrelative:makeup_mvc\\views\\eyes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8340CE98-0335-4ECA-AD4D-9C0295B05C19}|MakeUp_MVC\\MakeUp_MVC.csproj|c:\\users\\erdbe\\desktop\\makeup_mvc\\makeup_mvc\\views\\face\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8340CE98-0335-4ECA-AD4D-9C0295B05C19}|MakeUp_MVC\\MakeUp_MVC.csproj|solutionrelative:makeup_mvc\\views\\face\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8340CE98-0335-4ECA-AD4D-9C0295B05C19}|MakeUp_MVC\\MakeUp_MVC.csproj|c:\\users\\erdbe\\desktop\\makeup_mvc\\makeup_mvc\\models\\face.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8340CE98-0335-4ECA-AD4D-9C0295B05C19}|MakeUp_MVC\\MakeUp_MVC.csproj|solutionrelative:makeup_mvc\\models\\face.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8340CE98-0335-4ECA-AD4D-9C0295B05C19}|MakeUp_MVC\\MakeUp_MVC.csproj|c:\\users\\erdbe\\desktop\\makeup_mvc\\makeup_mvc\\models\\eyes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8340CE98-0335-4ECA-AD4D-9C0295B05C19}|MakeUp_MVC\\MakeUp_MVC.csproj|solutionrelative:makeup_mvc\\models\\eyes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8340CE98-0335-4ECA-AD4D-9C0295B05C19}|MakeUp_MVC\\MakeUp_MVC.csproj|c:\\users\\erdbe\\desktop\\makeup_mvc\\makeup_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8340CE98-0335-4ECA-AD4D-9C0295B05C19}|MakeUp_MVC\\MakeUp_MVC.csproj|solutionrelative:makeup_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8340CE98-0335-4ECA-AD4D-9C0295B05C19}|MakeUp_MVC\\MakeUp_MVC.csproj|c:\\users\\erdbe\\desktop\\makeup_mvc\\makeup_mvc\\views\\brushandaccessories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8340CE98-0335-4ECA-AD4D-9C0295B05C19}|MakeUp_MVC\\MakeUp_MVC.csproj|solutionrelative:makeup_mvc\\views\\brushandaccessories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8340CE98-0335-4ECA-AD4D-9C0295B05C19}|MakeUp_MVC\\MakeUp_MVC.csproj|c:\\users\\erdbe\\desktop\\makeup_mvc\\makeup_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8340CE98-0335-4ECA-AD4D-9C0295B05C19}|MakeUp_MVC\\MakeUp_MVC.csproj|solutionrelative:makeup_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8340CE98-0335-4ECA-AD4D-9C0295B05C19}|MakeUp_MVC\\MakeUp_MVC.csproj|c:\\users\\erdbe\\desktop\\makeup_mvc\\makeup_mvc\\controllers\\brushandaccessoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8340CE98-0335-4ECA-AD4D-9C0295B05C19}|MakeUp_MVC\\MakeUp_MVC.csproj|solutionrelative:makeup_mvc\\controllers\\brushandaccessoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8340CE98-0335-4ECA-AD4D-9C0295B05C19}|MakeUp_MVC\\MakeUp_MVC.csproj|c:\\users\\erdbe\\desktop\\makeup_mvc\\makeup_mvc\\views\\brushandaccessories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8340CE98-0335-4ECA-AD4D-9C0295B05C19}|MakeUp_MVC\\MakeUp_MVC.csproj|solutionrelative:makeup_mvc\\views\\brushandaccessories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Eyes.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Desktop\\MakeUp_MVC\\MakeUp_MVC\\Models\\Eyes.cs",
+              "RelativeDocumentMoniker": "MakeUp_MVC\\Models\\Eyes.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Desktop\\MakeUp_MVC\\MakeUp_MVC\\Models\\Eyes.cs",
+              "RelativeToolTip": "MakeUp_MVC\\Models\\Eyes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:08:41.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EyesController.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Desktop\\MakeUp_MVC\\MakeUp_MVC\\Controllers\\EyesController.cs",
+              "RelativeDocumentMoniker": "MakeUp_MVC\\Controllers\\EyesController.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Desktop\\MakeUp_MVC\\MakeUp_MVC\\Controllers\\EyesController.cs",
+              "RelativeToolTip": "MakeUp_MVC\\Controllers\\EyesController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwDYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:03:55.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Desktop\\MakeUp_MVC\\MakeUp_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MakeUp_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\erdbe\\Desktop\\MakeUp_MVC\\MakeUp_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MakeUp_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T16:35:47.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FaceController.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Desktop\\MakeUp_MVC\\MakeUp_MVC\\Controllers\\FaceController.cs",
+              "RelativeDocumentMoniker": "MakeUp_MVC\\Controllers\\FaceController.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Desktop\\MakeUp_MVC\\MakeUp_MVC\\Controllers\\FaceController.cs",
+              "RelativeToolTip": "MakeUp_MVC\\Controllers\\FaceController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:34:24.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Desktop\\MakeUp_MVC\\MakeUp_MVC\\Views\\Eyes\\Details.cshtml",
+              "RelativeDocumentMoniker": "MakeUp_MVC\\Views\\Eyes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\erdbe\\Desktop\\MakeUp_MVC\\MakeUp_MVC\\Views\\Eyes\\Details.cshtml",
+              "RelativeToolTip": "MakeUp_MVC\\Views\\Eyes\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T16:22:01.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Desktop\\MakeUp_MVC\\MakeUp_MVC\\Views\\Face\\Details.cshtml",
+              "RelativeDocumentMoniker": "MakeUp_MVC\\Views\\Face\\Details.cshtml",
+              "ToolTip": "C:\\Users\\erdbe\\Desktop\\MakeUp_MVC\\MakeUp_MVC\\Views\\Face\\Details.cshtml",
+              "RelativeToolTip": "MakeUp_MVC\\Views\\Face\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T17:10:27.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Desktop\\MakeUp_MVC\\MakeUp_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MakeUp_MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\erdbe\\Desktop\\MakeUp_MVC\\MakeUp_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MakeUp_MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T16:48:24.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Desktop\\MakeUp_MVC\\MakeUp_MVC\\Views\\BrushAndAccessories\\Details.cshtml",
+              "RelativeDocumentMoniker": "MakeUp_MVC\\Views\\BrushAndAccessories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\erdbe\\Desktop\\MakeUp_MVC\\MakeUp_MVC\\Views\\BrushAndAccessories\\Details.cshtml",
+              "RelativeToolTip": "MakeUp_MVC\\Views\\BrushAndAccessories\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T16:23:45.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Desktop\\MakeUp_MVC\\MakeUp_MVC\\Views\\Eyes\\Index.cshtml",
+              "RelativeDocumentMoniker": "MakeUp_MVC\\Views\\Eyes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\erdbe\\Desktop\\MakeUp_MVC\\MakeUp_MVC\\Views\\Eyes\\Index.cshtml",
+              "RelativeToolTip": "MakeUp_MVC\\Views\\Eyes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T16:21:57.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Face.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Desktop\\MakeUp_MVC\\MakeUp_MVC\\Models\\Face.cs",
+              "RelativeDocumentMoniker": "MakeUp_MVC\\Models\\Face.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Desktop\\MakeUp_MVC\\MakeUp_MVC\\Models\\Face.cs",
+              "RelativeToolTip": "MakeUp_MVC\\Models\\Face.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:10:19.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BrushAndAccessoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Desktop\\MakeUp_MVC\\MakeUp_MVC\\Controllers\\BrushAndAccessoriesController.cs",
+              "RelativeDocumentMoniker": "MakeUp_MVC\\Controllers\\BrushAndAccessoriesController.cs",
+              "ToolTip": "C:\\Users\\erdbe\\Desktop\\MakeUp_MVC\\MakeUp_MVC\\Controllers\\BrushAndAccessoriesController.cs",
+              "RelativeToolTip": "MakeUp_MVC\\Controllers\\BrushAndAccessoriesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:13:49.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\erdbe\\Desktop\\MakeUp_MVC\\MakeUp_MVC\\Views\\BrushAndAccessories\\Index.cshtml",
+              "RelativeDocumentMoniker": "MakeUp_MVC\\Views\\BrushAndAccessories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\erdbe\\Desktop\\MakeUp_MVC\\MakeUp_MVC\\Views\\BrushAndAccessories\\Index.cshtml",
+              "RelativeToolTip": "MakeUp_MVC\\Views\\BrushAndAccessories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T16:20:49.444Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
