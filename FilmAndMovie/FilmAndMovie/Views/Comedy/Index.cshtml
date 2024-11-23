@@ -13,8 +13,8 @@
             <p class="card-text">
                 @if (comedy.Description.Length > 100)
                 {
-                    @comedy.Description.Substring(0, 300)
-                    //  + "..." bunu neden kullanamıyorum
+                            var fulltext = comedy.Description.Substring(0, 200) + "...";
+                            @fulltext
                 }
                 else
                 {

@@ -17,8 +17,8 @@
                     <p class="card-text">
                         @if (r.Description.Length > 100)
                         {
-                            @r.Description.Substring(0, 300)
-                            //  + "..." bunu neden kullanamıyorum
+                            var fulltext = r.Description.Substring(0, 200) + "...";
+                            @fulltext
                         }
                         else
                         {

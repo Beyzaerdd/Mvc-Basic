@@ -6,7 +6,6 @@
 @foreach (Film h in ViewBag.horror)
 {
 
-
             <div class="col-md-6 mb-4">
                 <div class="card h-100">
 
@@ -16,9 +15,16 @@
                     <p class="card-text">
                         @if (h.Description.Length > 100)
                         {
-                            @h.Description.Substring(0, 200)
-                            //  + "..." bunu neden kullanamıyorum
+                            //  @h.Description.Substring(0, 200) + "..."
+                           @(h.Description.Substring(0, 200) + " ...")
+
+                           
+                            var fulltext = h.Description.Substring(0, 200) + "...";
+                                @fulltext
                         }
+                       
+
+                        
                         else
                         {
                             @h.Description
